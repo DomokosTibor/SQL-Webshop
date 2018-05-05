@@ -1,4 +1,4 @@
-# SQL Webshopp
+# SQL Webshop
 
 ## Task
 You need to create a database for a webshop project based on the below schema.
