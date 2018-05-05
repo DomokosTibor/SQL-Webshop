@@ -1,9 +1,9 @@
 # SQL Webshopp
 
-##Task
+## Task
 You need to create a database for a webshop project based on the below schema.
 
-##Submission
+## Submission
 * Write SQL script to create this database and INSERT some dummy data.
 * Upload your solution as a simple.sql. 
 * Make sure it doesn't contain errors.
